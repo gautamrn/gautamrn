@@ -22,4 +22,4 @@ I am a Computer Science student and Mathematics minor at the **University of Mic
 ---
 
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/gautamrn) | [GitHub](https://github.com/gautamrn) | [Email](mailto:gautamrn@umich.edu)
+[LinkedIn](https://linkedin.com/in/gautamrn) | [Portfolio](https://gautamn.xyz/) | [Email](mailto:gautamrn@umich.edu)
